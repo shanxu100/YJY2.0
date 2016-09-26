@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dip"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="10dip"
+    android:background="@color/body_bg">
+
+    <TextView
+    	android:id="@+id/alert_yn_content"
+		android:padding="20dip"
+		android:text="请做出判断！"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textSize="14sp"
+		android:textColor="#000000"
+		android:layout_marginTop="10dip"
+		android:paddingLeft="10dip"
+        android:paddingRight="10dip"/>
+   
+    <LinearLayout
+    	android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"         
+        android:gravity="center_horizontal"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:layout_marginTop="10dip"
+        android:orientation="horizontal">
+          
+		<Button 
+			android:id="@+id/alert_yn_cancel_btn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:text="取消" 
+			android:gravity="center_horizontal"
+			android:paddingTop="6dip"
+			android:paddingBottom="6dip"
+			android:textColor="#000000"
+			android:background="@color/transparent"
+			android:textSize="16sp"
+			android:layout_weight="50"/>
+		<View
+			android:layout_width="2px"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="10dip"
+			android:layout_marginRight="10dip"
+			android:background="@color/line_view"/>
+		<Button 
+			android:id="@+id/alert_yn_sure_btn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:text="确定" 
+			android:gravity="center_horizontal"
+			android:paddingTop="6dip"
+			android:paddingBottom="6dip"
+			android:layout_marginLeft="10dip"
+			android:textColor="#000000"
+			android:background="@color/transparent"
+			android:textSize="16sp"
+			android:layout_weight="50"/> 
+       </LinearLayout>
+</LinearLayout>

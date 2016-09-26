@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_upload"
+        android:title="上传"/>
+    <item
+        android:id="@+id/menu_newfolder"
+        android:title="新建文件夹"/>
+    <item
+        android:id="@+id/menu_filtrate"
+        android:title="筛选"/>
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="刷新"/>
+    <item
+        android:id="@+id/menu_static"
+        android:title="静态参数"/>
+</menu>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@color/body_bg"
+              android:orientation="vertical">
+
+
+    <include
+        layout="@layout/view_title_for_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <RelativeLayout
+        android:id="@+id/middle"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ListView
+            android:id="@+id/file_list"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/sdcard_bottom_layout"
+            android:cacheColorHint="#00000000"
+            android:divider="#DBDBDB"
+            android:dividerHeight="0.5dp">
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/sdcard_bottom_layout"
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            >
+
+
+            <Button
+                android:id="@+id/select_all_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dip"
+                android:layout_weight="1"
+
+                android:text="全选"
+                android:textColor="#ffffff"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/upload_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dip"
+                android:layout_weight="1"
+
+
+                android:text="上传"
+                android:textColor="#ffffff"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

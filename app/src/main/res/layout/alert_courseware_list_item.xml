@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="300dip"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:orientation="vertical"
+    >
+
+
+    <Button
+        android:id="@+id/alert_courseware_download_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="下载"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@color/line_view"/>
+
+    <Button
+        android:id="@+id/alert_courseware_move_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="移动"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@color/line_view"/>
+
+    <Button
+        android:id="@+id/alert_courseware_delete_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="删除"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@color/line_view"/>
+
+
+    <Button
+        android:id="@+id/alert_courseware_detail_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="详细信息"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@color/line_view"/>
+
+    <Button
+        android:id="@+id/alert_courseware_cancle_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/gray"
+        android:gravity="center"
+        android:padding="15dip"
+        android:text="取消"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@color/line_view"/>
+
+</LinearLayout>
