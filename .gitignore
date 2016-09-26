@@ -1,4 +1,8 @@
 .gitignore
-/build/
-/app/build/
-/local.properties
+*.zip
+*.rar
+*.bak
+*.log
+build/
+app/build/
+local.properties
