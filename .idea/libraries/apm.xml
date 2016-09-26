@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/apm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

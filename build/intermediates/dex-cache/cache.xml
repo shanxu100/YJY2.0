@@ -2,95 +2,95 @@
 <items version="2" >
 
     <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="/home/guan/project/YJY2.0/app/libs/gson-2.7.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_a5df1618aadae9b11674fa4ccec2d5eaca919724/classes.dex" />
-    </item>
-    <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_b65f3e75f10130dd86b531e865231f8ac0bb4ba2/classes.dex" />
-    </item>
-    <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_be5deae36c553dbdaef2991a389c952cbafcba17/classes.dex" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.7_65a8e265262a370295663f26e337a487477fa2ce/classes.dex" />
     </item>
     <item
         jar="/home/guan/software/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_695b29c6b5ef047862f10a4630197cd9df72fd2d/classes.dex" />
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_695b29c6b5ef047862f10a4630197cd9df72fd2d/classes.dex" />
     </item>
     <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_7b5b00229a8f46e6f28dcd5e4b0ce10dd73fa8fb/classes.dex" />
+    </item>
+    <item
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7314b3d0e867fbe7f9bbbf3db0a0ecdeda1fc51c/classes.dex" />
-    </item>
-    <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f597374d6f2178fd9cb5471d3448bb499266e251/classes.dex" />
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_565cf353f38b03060c9c2298f1dda4ba0b459bd7/classes.dex" />
     </item>
     <item
         jar="/home/guan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_40f5b70b01eb7210b629f4bfe4906ee2e330cb0d/classes.dex" />
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_40f5b70b01eb7210b629f4bfe4906ee2e330cb0d/classes.dex" />
     </item>
     <item
-        jar="/home/guan/project/YJY/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="9cdff91b3c13057987127c125d9e37cb669152de">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_053e7ab97b947ce0918fc392187960a787e63486/classes.dex" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7e8f7e3b84e74ebfa026bda35d58db87a963bb77/classes.dex" />
     </item>
     <item
-        jar="/home/guan/project/YJY/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_c12fdccbd49abd0553dd5305db8298c8fb4cb8fc/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_6a2c6b1f774f8a1166723894866eb7e16e4264eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0f364b9bd1169bd6a5960df0ddeccf85dd99b5b">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f999140c1d631b6bc06832c4f159a76237b580b1/classes.dex" />
     </item>
     <item
         jar="/home/guan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_144e750a755e14ef46bf6ec2134b7cc8962d7dba/classes.dex" />
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_144e750a755e14ef46bf6ec2134b7cc8962d7dba/classes.dex" />
     </item>
     <item
-        jar="/home/guan/project/YJY/app/libs/gson-2.7.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.7_095676a64aa8fa30e9b5dc337b82ff9388d04fdc/classes.dex" />
-    </item>
-    <item
-        jar="/home/guan/project/YJY/app/libs/apm.jar"
+        jar="/home/guan/project/YJY2.0/app/libs/apm.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="1714781c47f6b084c7d468c37be69d841d143f23">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/2/apm_c0af8e82704601fd07942f89aed49d42775291d9/classes.dex" />
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/apm_1862b88545b993af4fa9f660bcbf6cfcd713b16b/classes.dex" />
     </item>
     <item
-        jar="/home/guan/project/YJY/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="ba3fe7601333a2abeaa6212acf053b5e3a3e394e">
-        <dex dex="/home/guan/project/YJY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_65400880b9191a1fc5cb629fdc70bd4344da6e04/classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_4583ba9325d58b023805c20688d03ab256df10fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e4983499382839f8e365a0e5f7cb13c33a806168/classes.dex" />
+    </item>
+    <item
+        jar="/home/guan/project/YJY2.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="64429997692fd0316b5a59819af18fb2e847cfbf">
+        <dex dex="/home/guan/project/YJY2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ef24885d0053e5c4bd2c4c869015407f9084dcb/classes.dex" />
     </item>
 
 </items>
